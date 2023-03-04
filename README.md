@@ -1,2 +1,3 @@
 # green-screen
-An efficiency and carbon footprint based "screening process" for large models. 
+
+A package for checking the energy efficiency of large models while training
